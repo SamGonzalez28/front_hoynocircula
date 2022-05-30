@@ -2,6 +2,19 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
 
+### Instalación 🔧
+
+* **Clonar el repositorio**
+
+```
+git clone https://github.com/SamGonzalez28/front_hoynocircula.git
+```
+* Instalar los paquetes NPM
+```
+npm install
+```
+* Abrir en algún editor de código
+
 ## Servidor local
 
 Ejecutar: 
